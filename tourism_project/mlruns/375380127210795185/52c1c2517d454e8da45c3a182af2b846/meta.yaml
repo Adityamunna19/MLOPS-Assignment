@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/375380127210795185/52c1c2517d454e8da45c3a182af2b846/artifacts
+end_time: 1792938490548
+entry_point_name: ''
+experiment_id: '375380127210795185'
+lifecycle_stage: active
+run_id: 52c1c2517d454e8da45c3a182af2b846
+run_name: unequaled-lark-263
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792938464047
+status: 3
+tags: []
+user_id: root
