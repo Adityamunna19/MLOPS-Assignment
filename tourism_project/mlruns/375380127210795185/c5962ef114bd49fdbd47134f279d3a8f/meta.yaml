@@ -1,0 +1,14 @@
+artifact_uri: file:///content/tourism_project/mlruns/375380127210795185/c5962ef114bd49fdbd47134f279d3a8f/artifacts
+end_time: 1792938800715
+entry_point_name: ''
+experiment_id: '375380127210795185'
+lifecycle_stage: active
+run_id: c5962ef114bd49fdbd47134f279d3a8f
+run_name: youthful-jay-305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792938776578
+status: 3
+tags: []
+user_id: root
